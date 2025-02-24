@@ -1,0 +1,9 @@
+openai
+elevenlabs
+transformers
+torch
+pdf2image
+numpy
+pillow
+rich
+dotenv
