@@ -22,5 +22,5 @@ Manga tells stories through a unique blend of detailed artwork and minimalistic 
 ### Text-to-Speech (TTS):
         ElevenLabs’ TTS engine converts each dialogue segment into high-quality audio, mapping character identities to unique, expressive voices.
 
-###User Interface:
+### User Interface:
         A notebook-based web interface provides a simple and interactive experience, displaying detailed processing logs and enabling immediate audio playback.
